@@ -11,6 +11,7 @@ class ChattyStudent < Student
       super
       i += 1
     end
+  end
 
 
 end
